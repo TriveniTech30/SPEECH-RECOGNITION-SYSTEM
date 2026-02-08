@@ -27,3 +27,6 @@ The applications of speech recognition systems are extensive. In daily life, the
 Speech recognition systems offer several advantages. They provide hands-free operation, increase efficiency, and enable faster interaction compared to typing or manual input. They also allow integration with IoT and automation systems, making homes and workplaces smarter. However, challenges include recognizing different accents, handling background noise, and understanding context or homonyms. Continuous improvements in AI, signal processing, and machine learning are helping overcome these challenges and make speech recognition more accurate and reliable.
 
 In conclusion, a speech recognition system is a vital technology that bridges human communication and machine understanding. By converting spoken words into actionable commands or text, it enhances automation, accessibility, and convenience across multiple domains. Educational simulations, such as those on Tinkercad, allow students and hobbyists to explore the basics of speech recognition, develop practical projects, and gain hands-on experience in programming, electronics, and voice-controlled systems, paving the way for real-world applications and innovations.
+
+#OUTPUT
+<img width="1919" height="893" alt="Image" src="https://github.com/user-attachments/assets/83e763bf-05cb-4c46-a91f-17e28f50a9a6" />
